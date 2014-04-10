@@ -1,0 +1,21 @@
+.dsq_comment_count_box {
+    color: #999;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 60px;
+    margin-top: 2px;
+    margin-bottom: -15px;
+    position: absolute;
+    right: 95px;
+}
+
+.dsq_comment_count_value {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-align: right;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
